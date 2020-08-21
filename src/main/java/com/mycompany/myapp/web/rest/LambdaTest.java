@@ -5,6 +5,7 @@ import java.util.ArrayList;
 
 public class LambdaTest {
 
+//    test
     public static void main(String[] args) {
         ArrayList<Item> items = new ArrayList<>();
         items.add(new Item(11, "小牙刷", 12.05 ));
@@ -80,5 +81,5 @@ class Item {
             ", price=" + price +
             '}';
     }
-    
+
 }
